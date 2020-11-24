@@ -1,0 +1,798 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+
+.story-part h2 {   
+    font-size: 100px;
+	line-height: 80px;
+}
+
+.about-left h2 {    
+    font-size: 100px;    
+    line-height: 80px;
+}
+
+.meet-left h4 {
+    font-size: 80px;
+    line-height: 80px; 
+}
+
+.meet-left h5 {
+    font-size: 80px;
+    line-height: 80px;    
+}
+
+.meet-left h6 {
+    font-size: 80px;
+    line-height: 80px;    
+}
+
+
+
+
+.meet-left h4 {
+    font-size: 80px;
+    line-height: 80px;
+
+}
+
+
+.meet-left h4 .meeth5 {
+    font-size: 80px;
+    line-height: 30px;
+    margin-left: 60px;
+} 
+
+
+.meet-left h4 .meeth6 {
+    font-size: 80px;
+    line-height: 30px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.meet-left h4 {
+    font-size: 80px;
+    line-height: 80px;
+
+}
+
+
+.meet-left h4 .meeth5 {
+    font-size: 80px;
+    line-height: 30px;
+    margin-left: 60px;
+} 
+
+
+.meet-left h4 .meeth6 {
+    font-size: 80px;
+    line-height: 30px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+.header-area {    
+    background-size: 30% 80%;
+    min-height: 200px;
+}
+
+.head-left a img {
+    width: 250px;
+}
+
+.head-right a img {    
+    width: 50px;    
+}
+
+.story-area {     
+    background-size: 15% 50%;
+}
+
+.story-wrapper {
+    background-size: 15% 50%;    
+}
+
+.story-part h2 {   
+    font-size: 100px;
+	line-height: 80px;
+}
+
+.story-part h2 span {
+    margin-left: 140px;
+}
+
+.about-left h2 {    
+    font-size: 80px;    
+    line-height: 80px;
+}
+
+.about-right p {
+    font-size: 28px;
+    line-height: 34px;    
+}
+
+.meet-left h4 {
+    font-size: 80px;
+    line-height: 80px; 
+}
+
+.meet-left h5 {
+    font-size: 80px;
+    line-height: 80px;    
+}
+
+.meet-left h6 {
+    font-size: 80px;
+    line-height: 80px;     
+}
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.header-area {    
+    background-size: 30% 80%;
+    min-height: 200px;
+}
+
+.head-left a img {
+    width: 250px;
+}
+
+.head-right a img {    
+    width: 50px;    
+}
+
+.story-area {     
+    background-size: 15% 50%;
+}
+
+.story-wrapper {
+    background-size: 15% 50%;    
+}
+
+.story-part h2 {   
+    font-size: 100px;
+	line-height: 80px;
+}
+
+.story-part h2 span {
+    margin-left: 140px;
+}
+
+.born-area {      
+    background-size: 50% 80%;    
+}
+
+.about-left h2 {    
+    font-size: 80px;    
+    line-height: 80px;
+}
+
+.about-right p {
+    font-size: 28px;
+    line-height: 34px;    
+}
+
+.humble-left h2 {
+    font-size: 30px;
+}
+
+.humble-left p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.where-area {    
+    background-size: 20% 80%;
+}
+
+.wher-innp2 {    
+    background-position: center right;
+    background-size: 50%;
+}
+
+.wherri-part {
+    padding-right: 5px;
+}
+
+.wher-rip1 p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.wher-rip2 h2 {
+    font-size: 30px;
+}
+
+.wher-rip2 p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.beyoun-area {
+    padding: 80px 0 242px;
+    background-size: 20% 50%;
+}
+
+.bey-innp2 {   
+	padding-left: 30px; 
+    background-position: center left;
+    background-size: 50%;
+}
+
+.behle-part {
+    padding-right: 5px;
+}
+
+.beh-lfp1 p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.beh-lfp2 h2 {
+    font-size: 30px;
+}
+
+.beh-lfp2 p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.beyoun-area {
+    padding: 80px 0 242px;
+    background-size: 20% 50%;
+}
+
+.beh-btm {
+    width: 500px; 
+}
+
+.beh-btm p {
+    font-size: 24px;    
+    line-height: 30px;   
+}
+
+.meet-left h4 {
+    font-size: 80px;
+    line-height: 80px; 
+}
+
+
+
+.meet-right p {
+    font-size: 25px;    
+    line-height: 40px;
+}
+
+.meet-wrapper {
+    background-position: 40% 0%;
+    background-size: 15%;   
+    
+}
+
+
+.meet-left h4 {
+    font-size: 80px;
+    line-height: 80px;
+
+}
+
+
+.meet-left h4 .meeth5 {
+    font-size: 80px;
+    line-height: 30px;
+    margin-left: 60px;
+} 
+
+
+.meet-left h4 .meeth6 {
+    font-size: 80px;
+    line-height: 30px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+.header-area {    
+    background-size: 50% 80%;
+    min-height: 200px;
+}
+
+.head-left a img {
+    width: 150px;
+}
+
+.head-right a img {    
+    width: 50px;    
+}
+
+.story-area {     
+    background-size: 20% 70%;
+}
+
+.story-wrapper {
+    background-size: 15% 70%;    
+}
+
+.story-part h2 {   
+    font-size: 60px;
+	line-height: 50px;
+}
+
+.story-part h2 span {
+    margin-left: 100px;
+}
+
+.born-area {      
+    background-size: 70% 80%;    
+}
+
+.about-area {
+	padding: 0 70px;
+}
+
+.about-left h2 {    
+    font-size: 40px;    
+    line-height: 40px;
+    text-align: left;
+}
+
+.about-right p {
+    font-size: 20px;
+    line-height: 26px;    
+}
+
+.humble-are {
+    background-size: 40%;
+    margin-left: 10px;
+}
+
+.humble-left h2 {
+    font-size: 35px;   
+}
+
+.humble-left p {
+    font-size: 24px;    
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.where-area {  
+	padding: 10px 0px 10px;  
+    background-size: 35% 40%;
+}
+
+.wher-innp2 {    
+    background-position: center right;
+    background-size: 30%;
+}
+
+.whlf-part {
+    text-align: center;
+}
+
+.wherri-part {
+    padding-right: 5px;
+}
+
+.wher-rip1 p {
+    font-size: 24px;   
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.wher-rip2 h2 {
+    font-size: 30px;
+}
+
+.wher-rip2 p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.beyoun-area {  
+	padding: 10px 0px 10px;  
+    background-size: 30% 50%;
+    background-position: top right;
+}
+
+.behri-part { 
+    padding-right: 50px;  
+    text-align: right!important;    
+}
+
+.bey-innp2 { 
+	padding-left: 10px;   
+    background-position: center left;
+    background-size: 30%;
+}
+
+.behle-part {
+    padding-right: 5px;
+}
+
+.beh-lfp1 p {
+    font-size: 24px;   
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.beh-lfp2 h2 {
+    font-size: 30px;
+}
+
+.beh-lfp2 p {
+    font-size: 24px;   
+    line-height: 30px;
+}
+
+.beyoun-area {
+    padding: 80px 0 350px;
+    background-size: 20% 50%;
+}
+
+.beh-btm {
+    width: 350px; 
+    margin-right: 20px;
+}
+
+.beh-btm p {
+    font-size: 24px;    
+    line-height: 30px;
+   
+}
+
+.meet-wrapper {    
+    background-size: 50%;      
+}
+
+.meet-left h4 {
+    font-size: 50px;
+    line-height: 50px; 
+}
+
+
+
+.meet-right p {
+    font-size: 25px;    
+    line-height: 30px;
+    padding-top: 30px;
+}
+
+.meet-wrapper {
+    background-position: 70% 0%;
+    background-size: 15%;     
+}
+
+.carousel-area {
+    padding: 50px 10px 50px 30px;
+}
+
+.slider-content h3 {
+    font-size: 22px;    
+}
+
+.slider-content h6 {
+    font-size: 15px;
+
+}
+
+
+
+.meet-left h4 {
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+
+.meet-left h4 .meeth5 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-left: 0px;
+} 
+
+
+.meet-left h4 .meeth6 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+.header-area {  
+    padding: 5px 10px;
+    background-size: 50% 50%;
+    min-height: 150px;
+}
+
+.head-left a img {
+    width: 150px;
+}
+
+.head-right a img {    
+    width: 50px;   
+}
+
+.story-area {     
+    background-size: 20% 70%;
+}
+
+.story-wrapper {
+    background-size: 15% 50%;    
+}
+
+.story-part h2 {   
+    font-size: 30px;
+	line-height: 30px;
+}
+
+.story-part h2 span {
+    margin-left: 100px;
+}
+
+.born-area {      
+    background-size: 70% 60%; 
+    min-height: 100px;
+  	margin-top: -5px;  
+}
+
+.about-area {
+    padding: 0 30px;
+}
+
+.aboul-part {      
+    margin-top: -40px;   
+}
+
+.aboul-part img {
+    width: 25px;
+}
+
+.about-left h2 br {
+    display: none;
+}
+
+.about-left h2 {    
+    font-size: 30px;    
+    line-height: 30px;
+    text-align: left;
+}
+
+.about-right p {
+    font-size: 16px;
+    line-height: 26px;    
+}
+
+.humble-are {
+    padding: 10px 25px;
+    background-position: 0% 0%;
+    background-size: 30%;
+    margin-left: 10px;
+}
+
+.humble-left h2 {
+    font-size: 30px;   
+}
+
+.humble-left p {
+    font-size: 16px;    
+    line-height: 26px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.humble-right {    
+    padding: 10px 10px;    
+    background-position: 80% 50%;    
+}
+
+.where-area {  
+	padding: 10px 30px 10px;  
+    background-size: 30% 30%;
+}
+
+.wher-innp2 {    
+    background-position: center right;
+    background-size: 60%;
+}
+
+.wherri-part {
+    padding-right: 5px;
+}
+
+.wher-rip1 p {
+    font-size: 16px;   
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+.wher-rip2 h2 {
+    font-size: 30px;
+}
+
+.wher-rip2 p {
+    font-size: 16px;   
+    line-height: 26px;
+    margin: 0;
+}
+
+.behri-part { 
+    padding-right: 30px;  
+    text-align: right!important;    
+}
+
+.bey-innp2 { 
+	padding-left: 10px;   
+    background-position: center left;
+    background-size: 50%;
+}
+
+.behle-part {
+    padding-right: 5px;
+}
+
+.beh-lfp1 p {
+    font-size: 16px;   
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+.beh-lfp2 h2 {
+    font-size: 30px;
+}
+
+.beh-lfp2 p {
+    font-size: 16px;   
+    line-height: 26px;
+}
+
+.beyoun-area {
+    padding-top: 5px;
+    padding-bottom: 210px;
+    background-size: 30% 30%;
+    background-position: top right;
+}
+
+.beyoun-wrapper {
+    padding: 10px 25px 10px; 
+}
+
+.beh-btm {
+    width: 350px; 
+    margin-right: 20px;
+}
+
+.beh-btm p {
+    font-size: 16px;    
+    line-height: 26px;   
+}
+
+.meet-wrapper {    
+    background-size: 50%;     
+}
+
+.meet-left h4 {
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.meet-left h4 .meeth5 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-left: 0px;
+} 
+
+.meet-left h4 .meeth6 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-left: 0px;
+} 
+
+.meet-right p {
+    font-size: 16px;    
+    line-height: 26px;
+    padding-top: 10px;
+}
+
+.meet-wrapper {
+    background-position: 90% 0%;
+    background-size: 15%;    
+}
+
+.carousel-area {
+    padding: 50px 10px 50px 30px;
+}
+
+.slider-content h3 {
+    font-size: 22px;    
+}
+
+.slider-content h6 {
+    font-size: 15px;
+}
+
+.about-right p {   
+    margin-right: 10px;
+}
+
+.full-slider .prev {
+    left: -45px;
+}
+
+
+
+
+
+
+}
